@@ -1,0 +1,39 @@
+body {
+filter: blur(10%);
+background-color: rgba(0, 0, 0, 0.7);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-image:  url(https://th.bing.com/th?id=OIP.ntDDUsbRu9oJ5kJOkiSRzQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2);
+    margin: 13px;
+  background-position: center;
+}
+#center {
+   margin-top: 185px;
+   width: 600px;
+   text-align: center;
+   margin-left: 350px;
+}
+h1 {
+    font-family: "Playwrite CU", cursive;
+  font-optical-sizing: auto;
+  font-weight: 330px;
+  font-style: normal;
+}
+.button {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    box-shadow: 0 0 5px;
+    
+}
+.button:hover {
+    box-shadow: 0 0 15px rgb(236, 236, 112);
+    transition: box-shadow 0.3s ease;
+}
+#menu {
+    text-shadow: 0 0 11px rgb(236, 236, 112)
+}
+#menu:hover {
+    text-shadow: 0 0 1px rgb(236, 236, 112);
+    transition: text-shadow 0.9s ease;
+}
